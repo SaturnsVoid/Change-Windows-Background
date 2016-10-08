@@ -3,7 +3,9 @@
 Simple example of loading windows API and changing the background of a Windows PC between two backgraounds
 
 
+# To Run
 
+go run ChangeBG.go
 
 # Donations
 
